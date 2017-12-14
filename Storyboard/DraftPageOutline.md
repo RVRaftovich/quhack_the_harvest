@@ -11,6 +11,8 @@ Color code state with highest birds/hunter, state with most days afield?`
 
 >*How do we know the total number of waterfowl (or dove, or woodcock) hunters in a state?* `[Click to bring up box with short explanation of HIP]` Hunters are required to register for the Harvest Information Program (HIP) in each state they hunt migratory game birds. Methods of registration vary from state to state - some states require a separate permit, others offer free HIP registration over the internet, etc. - so, before you hunt game birds, be sure you know what the state requires, especially if you're a nonresident! 
 
+*<<I don't think the text of the paragraph answers the question posed at the begining.  Either the question or the text should be changed so they match.  --Bob>>*
+
 >*Someone registering for HIP might wonder "I get asked questions about my hunting when I register, is that all there is to the surey?"* No! Questions asked during HIP registration about how many birds you harvested the previous year help make sure we send surveys to the right people ... so that, for example, we send most of our dove surveys to people who hunt doves, rather than to waterfowl hunters. 
 
 >States send their HIP registration information to the USFWS, and the USFWS selects a sample of hunters to send Diary surveys. Estimates of total hunters in your state are based on a combination of the number of HIP registrations sent in by the state and responses to the Diary survey. For example, if a state has 100,000 HIP registrants and 50% of the hunters who respond to the Diary survey for dove hunting in that state report that they hunted doves, the estimate of dove hunters for the state is 50% of total HIP registrants, or 50,000 hunters. Actual calculations are more complicated, but that's the gist of it.
@@ -39,6 +41,11 @@ How do you know the harvest for individual species?* `[Click to navigate to a PC
 
 >The Waterfowl Parts survey also asks hunters for date information, giving states the option to further refine their season date selections. For example, if most hunters in a state prefer to shoot mallards, the survey results can be used to show when the most mallards are shot in that state.
 
->If you are planning to hunt in a new place, for an uncommon species, or a combination of species, the "when and where" information from the Waterfowl Parts survey is useful ... pick a state, select the species, and dates and see which county might be best! `GRAPHIC: Click state, chloropleth of harvest by species and date?`
+>If you are planning to hunt in a new place, for an uncommon species, or a combination of species, the "when and where" information from the Waterfowl Parts survey is useful ... pick a state, select the species, and dates and see which county might be best! `GRAPHIC: Click state, chloropleth of harvest by species and date?` 
+
+*<<It makes me nervous implying in any way that our data can provide hunters information about what areas might be good for hunting which species...evan at the county level.  I would remove this paragraph, or recast it to something that doesn't imply predictive ability. -- Bob>>*
+
+*<<The above 7 paragraphs apply only to the waterfowl surveys. That is probably not clear in a rapid read that most people will give.  
+   Do we want to mention in some way how the data are used for dove, woodcock, and rails? --Bob>>*
 
 `(example: graphic here showing overlap of best black duck, common eider, and Atlantic brant counties?)`
